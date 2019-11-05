@@ -333,9 +333,3 @@
 			});
 
 })(jQuery);
-
-let displayData = (appName) => {
-	// Create a dark blur over the view of the webpage
-	document.getElementById('blur').style.opacity = "1";
-	// Lower the square view of the pdf
-};
